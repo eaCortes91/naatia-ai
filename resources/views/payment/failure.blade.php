@@ -1,0 +1,1 @@
+<h1>Pago no completado</h1><p>Tu pago no se pudo completar. Puedes intentar de nuevo desde el chat.</p>

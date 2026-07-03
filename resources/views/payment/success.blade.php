@@ -1,0 +1,1 @@
+<h1>Pago recibido ✅</h1><p>Tu pago fue registrado. Te confirmamos por WhatsApp en breve.</p>

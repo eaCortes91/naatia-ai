@@ -1,0 +1,1 @@
+<h1>Pago pendiente</h1><p>Tu pago está pendiente de confirmación. Te avisamos por WhatsApp.</p>
