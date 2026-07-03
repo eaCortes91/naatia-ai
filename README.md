@@ -134,13 +134,31 @@ the payment.
 
 ## Screenshots
 
-> Coming soon — landing page, admin dashboard, and sample WhatsApp conversation (redacted).
+<div align="center">
 
-<!--
-| Landing | Admin dashboard | WhatsApp flow |
-|---|---|---|
-| ![Landing](docs/screenshots/landing.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![WhatsApp](docs/screenshots/whatsapp.png) |
--->
+### WhatsApp — end-to-end reservation flow
+
+<img src="docs/screenshots/04-whatsapp-stripe.jpg" width="720" alt="NAATIA AI answering a guest on WhatsApp and sending a Stripe checkout link" />
+
+*Guest asks for pricing, gets a real quote for a 2-night stay, and receives a live Stripe checkout link — all autonomously.*
+
+---
+
+### Admin dashboard
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/01-inventory.jpg" alt="Inventory & media management" /></td>
+    <td width="50%"><img src="docs/screenshots/02-calendar.jpg" alt="Room availability calendar" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="docs/screenshots/03-rooms-services.jpg" alt="Rooms, services and packages configuration" /></td>
+  </tr>
+</table>
+
+*Inventory, per-day room calendar, and dynamic pricing rules — all managed from a single admin panel.*
+
+</div>
 
 ---
 
